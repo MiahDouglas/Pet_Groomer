@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pet_Groomer</string>
+    <string name="pet_name">Client Name</string>
+    <string name="pet_weight">Weight (in lbs.)</string>
+    <string name="pet_breed">Breed</string>
+    <string name="insturctions">Special Instuctions or Notes</string>
+    <string name="btn_save">SAVE</string>
+    <string name="btn_VA">VIEW ALL</string>
+    <string name="caption">Our Most Loyal Clients</string>
+
+</resources>
