@@ -19,12 +19,6 @@ public class ClientFiles extends AppCompatActivity {
         ActionBar actionBar = getSupportActionBar();
         actionBar.setTitle(title);
         actionBar.setBackgroundDrawable(new ColorDrawable(getResources().getColor(R.color.grey)));
-
-        /*
-        assert actionBar != null;
-        actionBar.hide();
-
-         */
         
         Intent intent = getIntent();
         String all = intent.getStringExtra(MainActivity.PETS);
